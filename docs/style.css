@@ -115,7 +115,7 @@ main{
 /*SECTION CURSOS */
 
 .cursos{
-    grid-column: 2 / -3;
+    grid-column: 3 / -3;
     grid-row: 5 / 7;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
